@@ -6,6 +6,7 @@ excerpt: lorem-ipsum
 hide_header: false
 template: post
 thumb_img_path: images/5.jpg
+content_img_path: images/5.jpg
 ---
 ## Lorem ipsum
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
