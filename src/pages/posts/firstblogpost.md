@@ -1,7 +1,7 @@
 ---
 title: Hi Leute
 subtitle: Dies ist der Erste Blogpost
-date: '2020-12-02'
+date: '2020-12-03'
 excerpt: lorem-ipsum
 hide_header: false
 template: post
