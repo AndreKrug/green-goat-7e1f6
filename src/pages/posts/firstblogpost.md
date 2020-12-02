@@ -1,6 +1,6 @@
 ---
 title: Hi Leute
-subtitle: lorem-ipsum
+subtitle: Dies ist der Erste Blogpost
 date: '2020-12-02'
 excerpt: lorem-ipsum
 hide_header: false
