@@ -1,6 +1,8 @@
 ---
 title: Style Guide
-subtitle: This is the subtitle of this page
+subtitle: >-
+  This is the subtitle of this page this also can be slightly larger than the
+  displayed on column
 img_path: images/style-guide.jpg
 template: page
 ---
