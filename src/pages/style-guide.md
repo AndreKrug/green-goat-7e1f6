@@ -1,6 +1,6 @@
 ---
 title: Style Guide
-subtitle: ''
+subtitle: This is the subtitle of this page
 img_path: images/style-guide.jpg
 template: page
 ---
